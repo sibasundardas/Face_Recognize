@@ -87,11 +87,12 @@ A simple face recognition system using real-time images from your mobile device.
 - Ensure your phone and PC are on the same Wi-Fi network for IP Webcam streaming.
 - You may need to install additional packages (e.g., OpenCV, NumPy). Check `requirements.txt`.
 
+## 🧑‍💻 Author
+**Siba Sundar Das**  
+🔗 [GitHub](https://github.com/sibasundardas)  
+🔗 [LinkedIn](https://www.linkedin.com/in/siba-sundar-das)
+
 ## License
 
 This project is licensed under the MIT License.
 
----
-
-**Author:** [sibasundardas](https://github.com/sibasundardas)  
-**LinkedIn:** [siba-sundar-das](https://www.linkedin.com/in/siba-sundar-das)
